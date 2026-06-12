@@ -26,5 +26,6 @@ React · TypeScript · Next.js · Node.js · Strapi · MCP · Client-side Video
 
 📫 Reach me
 
-- X / Twitter: @74Y00
+- X / Twitter: https://x.com/74Y00
 - Email: salaudeen.t@gmail.com
+- LinkedIn: https://www.linkedin.com/in/tmtys/
