@@ -1,6 +1,6 @@
 👋 Hi, I'm Temitayo
 
-I'm a software developer building on the frontend of the web and the edge of what browsers can do.
+I'm a software engineer building on the frontend of the web and the edge of what browsers can do.
 
 React · TypeScript · Next.js · Node.js · Strapi · MCP · Client-side Video
 
